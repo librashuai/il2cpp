@@ -1,0 +1,6 @@
+/Users/kevin/Documents/study/github/il2cpp/il2cpp/il2cpp/bin/Debug/il2cpp.exe
+/Users/kevin/Documents/study/github/il2cpp/il2cpp/il2cpp/bin/Debug/il2cpp.exe.mdb
+/Users/kevin/Documents/study/github/il2cpp/il2cpp/il2cpp/obj/Debug/il2cpp.csprojResolveAssemblyReference.cache
+/Users/kevin/Documents/study/github/il2cpp/il2cpp/il2cpp/obj/Debug/il2cpp.exe
+/Users/kevin/Documents/study/github/il2cpp/il2cpp/il2cpp/obj/Debug/il2cpp.exe.mdb
+/Users/kevin/Documents/study/github/il2cpp/il2cpp/il2cpp/bin/Debug/Newtonsoft.Json.dll
